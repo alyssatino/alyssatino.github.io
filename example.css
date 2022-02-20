@@ -9,9 +9,10 @@ body {
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
-  font-size: 35px;
+  font-size: 350px;
   font-weight: normal;
   margin-top: 5px;
+  background-color: red; 
 }
 
 /* Applies to all elements with <... class="someclass"> specified. */
